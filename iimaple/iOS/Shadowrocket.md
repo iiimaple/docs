@@ -1,5 +1,5 @@
 ## 应用概述
-1111111111111111
+
 Shadowrocket在使用VMess时性能较好，推荐使用
 
 Shadowrocket 是在 iOS 平台上的客户端软件，支持 Shadowsocks、ShadowsocksR 以及 VMess 协议。
